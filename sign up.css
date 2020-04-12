@@ -1,0 +1,57 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1542052722982-1c9f552a534b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.simple-form{
+	
+	margin: 150px 500px;
+	width: 35%;
+	padding: 50px 50px;
+    background-color: rgb(50.2, 96.5, 96.5); 
+    text-align: center;
+}
+
+#fullname{
+	border-radius: 10px;
+	padding: 10px 60px;
+	font-size: large;
+	
+
+
+}
+#Email{
+	border-radius: 10px;
+	padding: 10px 60px;
+	font-size: large;
+
+}
+
+#number{
+	border-radius: 10px;
+	padding: 10px 60px;
+	font-size: large;
+	
+}
+
+#password{
+	border-radius: 10px;
+	padding: 10px 60px;
+	font-size: large;
+
+}
+
+.btn-btn-outline-danger{
+	padding: 50px;
+}
+
+.hello{
+	font-family: 'Merriweather Sans', sans-serif;
+	font-style: bold;
+	font-size: 50px;
+}
+#indent{
+	font-size: 20px;
+}

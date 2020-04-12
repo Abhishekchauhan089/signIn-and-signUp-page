@@ -1,0 +1,41 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1542052722982-1c9f552a534b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signin{
+	margin: 150px 450px;
+	width: 42%;
+	background-color: grey;
+	padding: 100px 40px;
+
+}
+
+#welcome{
+	margin-left: 150px;
+	margin-top: -50px;
+	font-size: 50px;
+}
+#email{
+	margin-left: 140px;
+	border-radius: 10px;
+	padding: 10px 60px;
+}
+#pass{
+	margin-left: 140px;
+	border-radius: 10px;
+	padding: 10px 60px;
+}
+.forgot{
+	margin-left: 285px;
+
+}
+.button{
+	margin-left: 230px;
+	
+	
+}
+#footer{
+	margin-left: 200px;
+}
